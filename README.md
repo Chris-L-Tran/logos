@@ -3,4 +3,4 @@ A practice creating logos with pure css.
 
 # source
 This git is inspired by the website:
-[ecsspert](http://www.ecsspert.com/misc/about)
+<a href='http://www.ecsspert.com/misc/about' target="_blank">ecsspert</a>

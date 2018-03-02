@@ -1,3 +1,13 @@
 body, #adidas, #adidas .stripes {
     background: #017ac3;
 }
+
+#adidas .leaf-t1,
+#adidas .leaf-t2 {
+    background: #fff;
+    border-radius: 204px/280px;
+    clip: rect(18px 43px 255px 0px);
+    height: 280px;
+    top: -68px;
+    width: 194px;
+}
